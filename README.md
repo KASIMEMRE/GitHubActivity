@@ -1,3 +1,6 @@
+# GitHub Activity CLI
+**Proje URL:** https://github.com/KASIMEMRE/GitHubActivity
+
 # 🌐 GitHub Activity CLI
 
 **GitHub Activity CLI**, terminal üzerinden herhangi bir kullanıcının son aktivitelerini gerçek zamanlı olarak takip etmenizi sağlayan, performans odaklı ve minimalist bir komut satırı arayüzüdür.
@@ -12,7 +15,7 @@ Proje, kurumsal standartlarda **Separation of Concerns (Sorumlulukların Ayrılm
 - **Services:** `HttpClient` ile ağ trafiğini yöneten ve asenkron veri akışını sağlayan motor.
 - **UI:** Kullanıcıya anlamlı ve temiz bir çıktı sunan sunum katmanı.
 - **Error Handling:** İnternet kesintileri veya geçersiz kullanıcı adları gibi senaryoları yöneten proaktif hata yakalama mekanizması.
-**Proje URL:** [https://github.com/KASIMEMRE/GitHubActivity](https://github.com/KASIMEMRE/GitHubActivity)
+
 ## 🚀 Hızlı Başlangıç
 
 Uygulamayı derledikten sonra terminal üzerinden şu şekilde çalıştırabilirsiniz:
