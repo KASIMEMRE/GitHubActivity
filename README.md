@@ -1,5 +1,5 @@
 # GitHub Activity CLI
-project URL: https://github.com/KASIMEMRE/GitHubActivity
+Project URL: https://roadmap.sh/projects/github-user-activity
 
 # 🌐 GitHub Activity CLI
 
