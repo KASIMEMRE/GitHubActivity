@@ -1,5 +1,5 @@
 # GitHub Activity CLI
-**Project URL:** https://github.com/KASIMEMRE/GitHubActivity
+**project URL:** https://github.com/KASIMEMRE/GitHubActivity
 
 # 🌐 GitHub Activity CLI
 
